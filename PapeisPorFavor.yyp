@@ -35,6 +35,7 @@
   "name":"PapeisPorFavor",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"VaiseFuderCaue","path":"sprites/VaiseFuderCaue/VaiseFuderCaue.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
