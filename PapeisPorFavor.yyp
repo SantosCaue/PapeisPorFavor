@@ -34,13 +34,14 @@
   },
   "name":"PapeisPorFavor",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Escritorio","path":"rooms/Escritorio/Escritorio.yy",},},
+    {"id":{"name":"BackgroundSprite","path":"sprites/BackgroundSprite/BackgroundSprite.yy",},},
     {"id":{"name":"VaiseFuderCaue","path":"sprites/VaiseFuderCaue/VaiseFuderCaue.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Escritorio","path":"rooms/Escritorio/Escritorio.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
