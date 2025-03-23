@@ -1,0 +1,8 @@
+
+titulo = "O Mistério da Floresta";
+data = "22/03/2025";
+autor = "Cauê Santos";
+paragrafo1 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec sapien hendrerit lectus sodales vehicula. Maecenas et egestas lorem, sed varius turpis. Sed libero massa, tincidunt eu metus ut, auctor facilisis est. Sed tincidunt varius mi, sit amet finibus augue posuere rhoncus. Nam molestie semper magna, eu facilisis erat efficitur eget. Morbi scelerisque metus vel elit tempor accumsan. Quisque sed lectus sed justo gravida elementum vel non ex. Donec hendrerit euismod maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in tortor eu dui maximus luctus. Fusce feugiat, ex quis suscipit egestas, augue justo mollis elit, id mattis nibh purus et tortor. Donec aliquet bibendum nisi, at rhoncus felis vehicula eget. Sed ligula libero, rhoncus eu nisi varius, suscipit maximus dui. Pellentesque euismod fringilla dui et congue. Donec in molestie felis. In sed lacus ex.";
+paragrafo2 = "Aliquam arcu leo, sollicitudin at consectetur id, facilisis sed enim. Praesent bibendum hendrerit ligula vitae porta. Mauris fermentum iaculis dapibus. Suspendisse vel justo vitae erat blandit lobortis. Phasellus a feugiat enim. Sed quis maximus lacus, sed tristique nisl. Fusce et turpis volutpat, scelerisque ex venenatis, vulputate metus. Sed enim magna, tincidunt a pretium vel, tincidunt a nisi. Phasellus at odio in elit ullamcorper efficitur nec at lacus. Etiam iaculis odio nec pretium dictum. Phasellus auctor neque lorem, ac sagittis sapien faucibus ac. Proin et pretium sem. Suspendisse ex turpis, placerat in condimentum vitae, tristique ut metus.";
+var img_spr; // Se tiver, definir o sprite da imagem
+bibliografia = "Minoru Mineta";
